@@ -76,6 +76,7 @@ public:
     kDeviceType_PowerSource       = 0x0014,
     kDeviceType_WaterHeater       = 0x0015,
     kDeviceType_WaterValve        = 0x0016,
+	kDeviceType_RoomAirConditioner= 0x0017,
     kDeviceType_Unspecified       = 0xFFFF
   };
 
